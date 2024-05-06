@@ -1,0 +1,280 @@
+
+ of -
+[]
+['of -']
+Despite of it is an industrial city , there are many shops and department stores .
+Although  it is an industrial city , there are many shops and department stores .
+['of']
+[]
+I recommend visiting the artificial lake in the certer of the city which is surrounded by a park .
+I recommend visiting the artificial lake in the center of the city which is surrounded by a park .
+['in the certer of the city', 'of the city', 'by a park']
+['in the center of the city', 'of the city', 'by a park']
+Pasteries are very common and most of them offer the special dessert from the city .
+Pasteries are very common and most of them offer the special dessert of the city .
+['of them', 'from the city']
+['of them', 'of the city']
+There are a comercial zone along the widest street of the city where you can find all kind of establishments : banks , bars , chemists , cinemas , pet shops , restaurants , fast food restaurants , groceries , travel agencies , supermarkets and others .
+There is a commercial zone along the widest street of the city where you can find all kinds of businesses : banks , bars , chemists , cinemas , pet shops , restaurants , fast food restaurants , grocers , travel agencies , supermarkets and others .
+['along the widest street of the city', 'of the city', 'of establishments']
+['along the widest street of the city', 'of the city', 'of businesses']
+Most of the shops have sales and offers at least three months of the year : January , June and August .
+Most of the shops have sales and offers in at least three months of the year : January , June and August .
+['of the shops', 'of the year']
+['of the shops', 'in at least three months of the year : January , June and August', 'of the year']
+The quality of the products and services are quite good , because there are a huge competition , however I suggest you taking care about some fakes or cheats .
+The quality of the products and services is quite good , because there is  huge competition . However , I recommend you be careful of  fakes or cheats .
+['of the products and services', 'about some fakes or cheats']
+['of the products and services', 'of']
+Everyone has his own plans .
+Everyone has his own plans .
+[]
+[]
+People want to be a doctor , other want to be a teacher .
+Some people want to be a doctor , others want to be a teacher .
+[]
+[]
+I have my own plan too but I do n't same to them , I want to become a Journalist .
+I have my own plan too , but I do want to be the n't as to . , I want to become journalist Journalist .
+['to them']
+['as to .']
+Working as a Journalist is very exciting because many reasons .
+Working as a journalist is very exciting for many reasons .
+['as a Journalist']
+['as a journalist', 'for many reasons']
+First , I will have an opportunity to live abroad .
+First , I will have an opportunity to live abroad .
+[]
+[]
+Second , I can travel all around the world , meet different people who are very friendly .
+Second , I can travel all around the world , and meet different people who are very friendly .
+['all around the world']
+['all around the world']
+Next , I will have a chance appear in big parties or events and I can make friends with famous person - It 's interesting !
+Next , I will have a chance attend in big parties or events and I can make friends with famous people . It 's interesting !
+['in big parties or events', 'with famous person']
+['in big parties or events', 'with famous people']
+Finally , I will have high salary when I am Journalist .
+Finally , I will have a high salary when I journalist am Journalist .
+[]
+[]
+To be Journalist , I must study very hard so I 'll try to learn in order to make my dream comes true .
+To be journalist Journalist , I must study very hard , so I 'll try to learn in order to make my come comes true .
+['in order to make my dream comes true']
+['in order to make my come comes true']
+In the future , I 'll become a journalist .
+In the future , I 'll become a journalist .
+['In the future']
+['In the future']
+Now days each family has more then 1 car for each one , this is only one of few reason that people use less public transport .
+Nowadays , each family has more than 1 car for each person , this is only one of several reasons why people use less public transport .
+['then', 'for each one', 'of few reason that people use less public transport']
+['than', 'for each person', 'of several reasons why people use less public transport']
+Before was really convenient to go by bus or by train but with the new economy the travel tickets are more expensive and a big difference from the past is that it is less expensive to go far then near .
+Before , it was really convenient to go by bus or by train , but with the new economy , the fares are more expensive and a big difference from the past is that it is less expensive to go long - distance than short journeys .
+['by bus or by train', 'by train', 'with the new economy', 'from the past', 'then']
+['by bus or by train', 'by train', 'with the new economy', 'from the past', 'than short journeys']
+I remember from my town Palermo in Italy to go to Milan was about 340 pounds , now if we are lucky we can arrive to New York .
+I remember to go from my town , Palermo , to Milan was about 340 pounds , now if we are lucky , . Now , get to New York .
+['from my town Palermo in Italy', 'in Italy', 'to Milan', 'about', 'to New York']
+['from my town , Palermo', 'to Milan', 'to New York']
+In England where I live , in Bedford , we use a lot the train to go in the most important town of UK , but the train are very expensive , me and my family stay careful if we go off pick because the price are to high .
+In England , where I live , in Bedford , we the train a lot train to to in the most important towns in the UK , but the trains are very expensive . Me and my family are careful to go off peak because the prices are too high .
+['In England where I live', 'in Bedford', 'in the most important town of UK', 'of UK']
+['In England , where I live ,', 'in Bedford', 'to in the most important towns in the UK', 'in the most important towns in the UK', 'in the UK', 'off peak']
+I 'm sure in the future there will be car able to fly or you can park them in your pocket .
+I 'm sure in the future there will be cars that are able to fly or you can park them in your pocket .
+['in the future', 'in your pocket']
+['in the future', 'in your pocket']
+Furthermore , the biggest group of positive feeling students in the present is live with various nationalities .
+Furthermore , the biggest group of positive feeling students in the present is live with various nationalities .
+['of positive feeling students', 'in the present', 'with various nationalities']
+['of positive feeling students', 'in the present', 'with various nationalities']
+The possible reason is these international students can not speak English flowing .
+The possible reason is these international students can not speak English fluently .
+[]
+[]
+They usually lack of language and can not open a debate .
+They usually lack  language and can not start a debate .
+['of language']
+[]
+It is restrict to argue .
+It is restrict to argue .
+[]
+[]
+In the other side , they might be wanted to safeguard national image .
+On the other hand , they might want to safeguard national the image .
+['In the other side']
+['On the other hand']
+In order to give a good image and show the national parenting , our respondents tend to have a great pardon to other nationalities .
+In order to give a good image and show the national parenting , our respondents tend to have a great pardon to other nationalities .
+['In order to give a good image and show the national parenting', 'to other nationalities']
+['In order to give a good image and show the national parenting', 'to other nationalities']
+MORE THAN KIP FIT !
+MORE THAN KEEP FIT !
+['THAN KIP FIT']
+['THAN KEEP FIT']
+Do you know mountain biking ?
+Do you know about mountain biking ?
+[]
+['about mountain biking']
+Perhaps you think it 's only a sport .
+Perhaps you think it 's only a sport .
+[]
+[]
+You 're wrong .
+You 're wrong .
+[]
+[]
+Follow reading to know why!.
+Carry on reading to know why !
+[]
+['on']
+I 'm keen on mountain biking since three years ago .
+I have been keen on mountain biking since three years ago .
+['on mountain biking']
+['on mountain biking']
+Firstly , I tried with a rental bike in the area of Aznalcazar .
+First , I tried it with a rental bike in the area of Aznalcazar .
+['with a rental bike', 'in the area of Aznalcazar', 'of Aznalcazar']
+['with a rental bike', 'in the area of Aznalcazar', 'of Aznalcazar']
+The main reason why I wanted to prove was to lose weight ( I was a bit overweight ) .
+The main reason why I wanted to try it was to lose weight ( I was a bit overweight ) .
+[]
+[]
+However , it was wonderful how I could admire the landscape while I was doing sport .
+However , it was wonderful how I could admire the landscape while I was doing sport .
+[]
+[]
+Consequently , I realized that although ciclyng outside helped me to improve my fitness , really I enjoyed the best breathing pure air and taking pleasure the countryside .
+Consequently , I realized that although cycling outside helped me to improve my fitness , really I enjoyed most breathing fresh air and taking pleasure in the countryside .
+[]
+['in the countryside']
+If someone wants to take up this sport , first of all , I would recommended him or her to pursue a good mountain bike .
+If someone wants to take up this sport , first of all , I would recommended him or her to look for a good mountain bike .
+['up', 'of all']
+['up', 'of all', 'for a good mountain bike']
+It 's important to avoid accidents , become comfortable and have a good journey .
+It 's important to avoid accidents , be comfortable and have a good journey .
+[]
+[]
+Secondly , he or she would buy a good helmet and , of course , appropriate clothing .
+Secondly , he or she should buy a good helmet and , of course , appropriate clothing .
+['of course']
+['of course']
+I love this sport . I look forward to the weakened , to go out with my bike and my group of friends .
+I love this sport . I look forward to the weekend  to go out with my bike and my group of friends .
+['forward', 'to the weakened', 'out', 'with my bike and my group of friends', 'of friends']
+['forward', 'to the weekend', 'out', 'with my bike and my group of friends', 'of friends']
+All of us spend a good time .
+All of us have a good time .
+['of us']
+['of us']
+And I would like to encourage everybody to prove .
+And I would like to encourage everybody to try it .
+[]
+[]
+Nobody wo n't regret it .
+Nobody will regret it .
+[]
+[]
+Lucy Keyes
+Lucy Keyes
+[]
+[]
+Lucy Keyes was the last thriller I 've seen .
+Lucy Keyes was the last thriller I saw .
+[]
+[]
+I do n't recommend it to children lower than thirteen years old ,
+I do n't recommend it to children under thirteen years old ,
+['to children lower than thirteen years old', 'than thirteen years old']
+['to children under thirteen years old', 'under thirteen years old']
+because it 's difficult to understand ; for example , the characters are ,
+because it 's difficult to understand ; for example , the characters are ,
+['for example']
+['for example']
+Lucy , Molly , and their parents , a cowboy , and a teacher .
+Lucy , Molly , and their parents , a cowboy , and a teacher .
+[]
+[]
+The movie is about Lucy 's family that moves into a farmhouse , mysterious and
+The movie is about Lucy 's family who that move into a that is , mysterious and
+["about Lucy 's family that moves into a farmhouse , mysterious and", 'into a farmhouse , mysterious']
+["about Lucy 's family who that move into a that is , mysterious and", 'into a that is , mysterious and']
+scary .
+scary .
+[]
+[]
+Also reflects a comparison of Lucy 's family , and characters
+Also reflects a comparison of Lucy 's family , and characters
+["of Lucy 's family , and characters"]
+["of Lucy 's family , and characters"]
+from a story their mom read often .
+from a story their mom often reads .
+['from a story their mom read often .']
+['from a story their mom often reads .']
+The story actually takes place in a camp , and farmhouse , mysteriously
+The story actually takes place in a camp  and a farmhouse , mysteriously
+['in a camp , and farmhouse']
+['in a camp']
+used in other times .
+used in other times .
+['in other times']
+['in other times']
+It 's interesting because Lucy 's mom discovered a wall in their farm , that
+It 's interesting because Lucy 's mom discovered a wall in their farm , that
+['in their farm']
+['in their farm']
+had a weird painting of two sisters just like her 's , the same ones also of the
+had a weird painting of two sisters just like hers , the and same ones also too as
+["of two sisters just like her 's , the same ones also of the", "just like her 's", 'also of the']
+['of two sisters just like hers , the and same ones also too', 'just like hers', 'as']
+story she read .
+story she read .
+[]
+[]
+I recommend this movie only to teenagers older than thirteen years old ..
+I recommend this movie only to teenagers older than thirteen years old ..
+['only to teenagers older than thirteen years old', 'than thirteen years old']
+['only to teenagers older than thirteen years old', 'than thirteen years old']
+The best place for young people in our aree is without doubt the lake .
+The best place for young people in our area is without doubt the lake .
+['for young people', 'in our aree', 'without doubt']
+['for young people', 'in our area', 'without doubt']
+Here they can do many kinds of sport : swimming , sailing , surfing , kiting , rowing and many others .
+Here they can do many kinds of sport : swimming , sailing , surfing , kiting , rowing and many others .
+['of sport']
+['of sport']
+At least they can meet other folks and relax , have a sunbathe and listen to the music .
+At least they can meet other folks and relax ,  sunbathe and listen to  music .
+['At', 'to the music']
+['At', 'to']
+In the summer around the lake are so many concerts so you have the difficulty finding the right one .
+In the summer around the lake , there are so many that so you  the difficulty finding the right one .
+['In the summer', 'around the lake']
+['In the summer around the lake', 'around the lake']
+Luckily the scouls are closed per ten weeks so the young girls and boys have much time to spend the
+Luckily , the schools are closed for ten weeks , so the young girls and boys a lot of much time to their the
+['per ten weeks']
+['for ten weeks', 'of much time']
+leisure time together .
+leisure time together .
+[]
+[]
+Dear husband ,
+Dear husband ,
+[]
+[]
+I hope you 're fine .
+I hope you 're fine .
+[]
+[]
+I remember all of you and miss my family .
+I remember all of you and miss my family .
+['of you']
+['of you']
+Leaving my country , Soamlia , was very hard for me .
+Leaving my country , Somalia , was very hard for me .
+['for me']
+['for me']
