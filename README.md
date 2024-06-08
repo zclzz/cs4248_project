@@ -14,3 +14,6 @@ We propose to utilize in-context learning (ICL) and prefix tuning to train large
 
 ## Dataset
 Data was acquired from the [Write & Improve (WI) Locnesss dataset](https://www.cl.cam.ac.uk/research/nl/bea2019st/) with over 43k of text data.
+
+## Authors
+Included at the top of the poster image
